@@ -51,5 +51,9 @@ you can also override a snippets behavior for a language by putting something li
 !ENDOVERRIDES
 at the top of your file this needs to start on the first line of the file and the contents must be valid json 
 all override triggers are manual expanding by default 
-you can also see an example config in the snippets/ folder in the repo
+you can also see an example config in the [snippets/](snippets) folder in the repo
+
+## License
+
+This project is licensed under [The Unlicense](LICENSE).
 
