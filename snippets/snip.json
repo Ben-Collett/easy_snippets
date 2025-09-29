@@ -1,0 +1,14 @@
+{
+  "class": "DECLARE_CLASS_PLZ ",
+  "const": "DECLARE_CONST_PLZ ",
+  "mutable": "DECLARE_VAR_PLZ ",
+  "imutable": "DECLARE_IMMUTABLE_PLZ ",
+  "print": [
+    "print",
+    "PRINT_PLZ "
+  ],
+  "auto_expand_by_default": true,
+  "alternative_expanding": [],
+  "tab": "  ",
+  "lua_snip_path": "~/.config/nvim/lua/my_snippets.lua"
+}

@@ -1,0 +1,1 @@
+final {name} = {value};{_end}

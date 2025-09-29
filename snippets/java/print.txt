@@ -1,0 +1,7 @@
+!OVERRIDES
+{
+"trigs": ["sout", "PRINT_PLZ "],
+"autoexpand": ["PRINT_PLZ "]
+}
+!ENDOVERRIDES
+System.out.println({toPrint});

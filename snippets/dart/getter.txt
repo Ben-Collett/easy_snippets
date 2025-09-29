@@ -1,0 +1,4 @@
+{int} get {name}\{
+  {content}
+  return {return};
+\}{_end}
